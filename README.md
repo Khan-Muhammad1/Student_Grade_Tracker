@@ -1,4 +1,4 @@
-# Student Grade Manager
+# Student Grade Tracker
 
 A simple command-line application to manage student grades using SQLite database in Python.  
 Allows you to add, view, update, and delete student records.
